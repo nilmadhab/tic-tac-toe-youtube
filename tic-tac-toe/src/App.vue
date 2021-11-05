@@ -23,6 +23,8 @@
     },
     data() {
       return {
+        content: ["", "", "", "", "", "", "", "", ""],
+        turn: true,
       }
     },
     methods: {}
